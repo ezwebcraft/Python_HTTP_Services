@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HTTP Services scripts
 
 ### HTTP RESTful
@@ -6,3 +7,7 @@
 - HTTP request
 
 
+=======
+# Python_HTTP_Services
+Python_HTTP_Services from TalkPython  course
+>>>>>>> refs/remotes/origin/master
