@@ -2,7 +2,7 @@ import json
 
 text_json = '''{
    "demo": "Processing JSON in Python",
-"instructor": "Michael",
+	"instructor": "Michael",
    "duration": 5.0
 }'''
 
